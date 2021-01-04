@@ -18,7 +18,7 @@ I'm just trying to learn Rust. <br>
 
 #### The main challenge for Rust
 
-- Rust does not have a Garbage collector like Java does...so implementing concurrentcy means we have to know when to free things ('drop' things in Rust). Many threads will try to access the map...as well as re-sizing of the map may also need to occur.
+- Rust does not have a Garbage collector like Java does...so implementing concurrency means we have to know when to free things ('drop' things in Rust). Many threads will try to access the map...as well as re-sizing of the map may also need to occur.
 
 ---
 
